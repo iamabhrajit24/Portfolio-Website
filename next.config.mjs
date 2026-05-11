@@ -10,7 +10,7 @@ const nextConfig = {
   outputFileTracingRoot: __dirname,
   images: {
     unoptimized: true,
-    basePath: '/Portfolio-Website',
+    
     remotePatterns: [
       {
         protocol: 'https',
