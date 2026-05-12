@@ -28,7 +28,7 @@ const projects = [
     description: "Full-stack medical resource management solution built with the MERN Stack.",
     image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80&fm=webp",
     tags: ["MERN Stack", "React", "Node.js", "MongoDB"],
-    github: "https://github.com/iamabhrajit24/Hospital-Bed-Management-System",
+    github: "https://github.com/iamabhrajit24/Hospital-Bed-Management",
     live: "",
     featured: true,
   },
