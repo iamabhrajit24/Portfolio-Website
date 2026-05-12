@@ -1,4 +1,4 @@
-# Abhrajit Chakraborty - Premium Portfolio
+# Abhrajit Chakraborty - Portfolio Website
 
 An ultra-modern, premium personal portfolio website.
 
